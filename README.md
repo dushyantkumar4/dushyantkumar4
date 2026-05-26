@@ -104,9 +104,9 @@ const dushyant: Developer = {
 
 | Project | Description | Tech Stack |
 |:-------:|:-----------:|:----------:|
-| 🌍 **[Wanderlust](https://github.com/dushyantkumar4)** | Full-stack Airbnb clone with property listings, location search, maps & reviews | HTML, CSS, JS, Bootstrap, Node.js, Express.js |
-| 🤖 **[Decent AI](https://github.com/dushyantkumar4)** | Production-ready AI web app via Groq API with markdown rendering & syntax highlighting | MERN, TypeScript, JWT |
-| 💰 **[Decent Expense](https://github.com/dushyantkumar4)** | Finance tracker with real-time dashboards, analytics & interactive charts | MERN, TypeScript, Shadcn, Tailwind |
+| 🌍 **[Wanderlust]([https://github.com/dushyantkumar4](https://majorproject-fvii.onrender.com/listings))** | Full-stack Airbnb clone with property listings, location search, maps & reviews | HTML, CSS, JS, Bootstrap, Node.js, Express.js |
+| 🤖 **[Decent AI]([https://github.com/dushyantkumar4](https://ai-frontend-eta-blond.vercel.app/))** | Production-ready AI web app via Groq API with markdown rendering & syntax highlighting | MERN, TypeScript, JWT |
+| 💰 **[Decent Expense]([https://github.com/dushyantkumar4](https://finance-front-xi.vercel.app/))** | Finance tracker with real-time dashboards, analytics & interactive charts | MERN, TypeScript, Shadcn, Tailwind |
 | 🎥 **[DecentMeet](https://github.com/dushyantkumar4)** *(In Progress)* | WebRTC-powered video conferencing app with real-time communication | WebRTC, Socket.io |
 
 </div>
