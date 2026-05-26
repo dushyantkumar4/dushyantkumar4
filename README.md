@@ -1,35 +1,191 @@
-<h1 align="center">Hi 👋, I'm Dushyant kumar</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dushyantkumar4&label=Profile%20views&color=0e75b6&style=flat" alt="dushyantkumar4" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Dushyant%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20Specialist&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
 
-<p align="left"> <a href="https://twitter.com/kumardushy59991" target="blank"><img src="https://img.shields.io/twitter/follow/kumardushy59991?logo=twitter&style=for-the-badge" alt="kumardushy59991" /></a> </p>
+</div>
 
-- 🔭 I’m currently working on **DecentMeet**
+<div align="center">
 
-- 🌱 I’m currently learning **WEBrtc , Socket.io**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dushyantkumar04)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kumardushy59991)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dushyantkumar96756@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dushyantkumar4)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://drive.google.com/file/d/1_u7oKJii8PRZR1Kz906P6KwIfxrVRKnv/view?usp=sharing)
 
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+<img src="https://komarev.com/ghpvc/?username=dushyantkumar4&label=Profile%20Views&color=7c3aed&style=flat-square" alt="profile views" />
 
-- 🤝 I’m looking for help with **Full stack**
+</div>
 
-- 💬 Ask me about **Full stack**
+---
 
-- 📫 How to reach me **dushyantkumar96756@gmail.com**
+## 🧑‍💻 About Me
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_u7oKJii8PRZR1Kz906P6KwIfxrVRKnv/view?usp=sharing](https://drive.google.com/file/d/1_u7oKJii8PRZR1Kz906P6KwIfxrVRKnv/view?usp=sharing)
+```typescript
+const dushyant: Developer = {
+  name: "Dushyant Kumar",
+  role: "Full-Stack Developer",
+  experience: "1+ Year",
+  stack: ["MERN", "TypeScript", "PostgreSQL"],
+  currentlyBuilding: "DecentMeet — a WebRTC-powered video conferencing app",
+  learning: ["WebRTC", "Socket.io", "Real-time Systems"],
+  lookingFor: "Full-Stack collaboration opportunities",
+  contact: "dushyantkumar96756@gmail.com",
+  motto: "Clean code. Scalable systems. Real-world impact."
+};
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kumardushy59991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kumardushy59991" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dushyantkumar04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dushyantkumar04" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🚀 Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dushyantkumar4&show_icons=true&locale=en&layout=compact" alt="dushyantkumar4" /></p>
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dushyantkumar4&show_icons=true&locale=en" alt="dushyantkumar4" /></p>
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dushyantkumar4&" alt="dushyantkumar4" /></p>
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠️ DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+---
+
+## 💼 Experience
+
+<table>
+<tr>
+<td>
+
+**🏢 Full-Stack Developer @ FUTiSE Technology Pvt Ltd**
+*April 2025 – Feb 2026 · Remote*
+
+- 🔧 Built an industry-level **Learning Management System (LMS)** using React, TanStack Query, TypeScript, and Tailwind CSS
+- 🗄️ Designed scalable **RESTful APIs** with Express.js + PostgreSQL, using Prisma ORM for type-safe DB access
+- 🔐 Implemented **secure authentication** and role-based authorization flows
+- 🧩 Built reusable, modular UI components following production best practices
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏗️ Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|:-------:|:-----------:|:----------:|
+| 🌍 **[Wanderlust](https://github.com/dushyantkumar4)** | Full-stack Airbnb clone with property listings, location search, maps & reviews | HTML, CSS, JS, Bootstrap, Node.js, Express.js |
+| 🤖 **[Decent AI](https://github.com/dushyantkumar4)** | Production-ready AI web app via Groq API with markdown rendering & syntax highlighting | MERN, TypeScript, JWT |
+| 💰 **[Decent Expense](https://github.com/dushyantkumar4)** | Finance tracker with real-time dashboards, analytics & interactive charts | MERN, TypeScript, Shadcn, Tailwind |
+| 🎥 **[DecentMeet](https://github.com/dushyantkumar4)** *(In Progress)* | WebRTC-powered video conferencing app with real-time communication | WebRTC, Socket.io |
+
+</div>
+
+---
+
+### 🌍 Wanderlust — Airbnb Clone
+> **Stack:** HTML · CSS · JavaScript · Bootstrap · Node.js · Express.js
+
+- 🏠 Property listings with image uploads, location-based search & category filtering
+- 🗺️ Interactive maps & user review system
+- 🔐 Token-based authentication — only owners can manage their content
+
+---
+
+### 🤖 Decent AI — AI Web Application
+> **Stack:** MERN · TypeScript · Groq API
+
+- ⚡ Fast, structured AI responses with **markdown rendering & syntax highlighting**
+- 🔐 JWT auth, role-based access control
+- 🌗 Dark/light theme switching across a fully responsive interface
+
+---
+
+### 💰 Decent Expense — Finance Management App
+> **Stack:** MERN · TypeScript · Shadcn · Tailwind CSS
+
+- 📊 Real-time dashboards with category & month-wise analytics
+- 📈 Interactive charts and salary/expense tracking
+- 👥 Full user & admin management with role-based JWT auth
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dushyantkumar4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyantkumar4&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dushyantkumar4&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dushyantkumar4&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=dushyantkumar4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 📚 Education
+
+🎓 **B.Sc. in Mathematics & Computer Science** — JS University *(2021–2024)* · GPA: 7.6
+📘 **XII – UP Board** · 64% (2021) &nbsp;|&nbsp; 📗 **X – UP Board** · 80% (2019)
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+
+*"First, solve the problem. Then, write the code."*
+
+**⭐ Star my repos if you find them useful!**
+
+</div>
