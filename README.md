@@ -113,33 +113,6 @@ const dushyant: Developer = {
 
 ---
 
-### 🌍 Wanderlust — Airbnb Clone
-> **Stack:** HTML · CSS · JavaScript · Bootstrap · Node.js · Express.js
-
-- 🏠 Property listings with image uploads, location-based search & category filtering
-- 🗺️ Interactive maps & user review system
-- 🔐 Token-based authentication — only owners can manage their content
-
----
-
-### 🤖 Decent AI — AI Web Application
-> **Stack:** MERN · TypeScript · Groq API
-
-- ⚡ Fast, structured AI responses with **markdown rendering & syntax highlighting**
-- 🔐 JWT auth, role-based access control
-- 🌗 Dark/light theme switching across a fully responsive interface
-
----
-
-### 💰 Decent Expense — Finance Management App
-> **Stack:** MERN · TypeScript · Shadcn · Tailwind CSS
-
-- 📊 Real-time dashboards with category & month-wise analytics
-- 📈 Interactive charts and salary/expense tracking
-- 👥 Full user & admin management with role-based JWT auth
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -163,22 +136,6 @@ const dushyant: Developer = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=dushyantkumar4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
-## 📚 Education
-
-🎓 **B.Sc. in Mathematics & Computer Science** — JS University *(2021–2024)* · GPA: 7.6
-📘 **XII – UP Board** · 64% (2021) &nbsp;|&nbsp; 📗 **X – UP Board** · 80% (2019)
-
----
 
 <div align="center">
 
