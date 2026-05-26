@@ -24,8 +24,8 @@
 const dushyant: Developer = {
   name: "Dushyant Kumar",
   role: "Full-Stack Developer",
-  experience: "1+ Year",
-  stack: ["MERN", "TypeScript", "PostgreSQL"],
+  experience: "1 Year",
+  stack: ["MERN", "TypeScript"],
   currentlyBuilding: "DecentMeet — a WebRTC-powered video conferencing app",
   learning: ["WebRTC", "Socket.io", "Real-time Systems"],
   lookingFor: "Full-Stack collaboration opportunities",
