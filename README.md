@@ -10,7 +10,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kumardushy59991)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dushyantkumar96756@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dushyantkumar4)
-[![Resume](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://drive.google.com/file/d/1_u7oKJii8PRZR1Kz906P6KwIfxrVRKnv/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1_u7oKJii8PRZR1Kz906P6KwIfxrVRKnv/view?usp=sharing)
 
 <img src="https://komarev.com/ghpvc/?username=dushyantkumar4&label=Profile%20Views&color=7c3aed&style=flat-square" alt="profile views" />
 
